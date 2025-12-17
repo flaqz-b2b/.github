@@ -2,7 +2,7 @@
 
   <div align="center">
 
-  <img src="./assets/Text-svg/Title.svg" width="60%" alt="Flaqz B2B" />
+  <img src="../assets/Text-svg/Title.svg" width="60%" alt="Flaqz B2B" />
   
   **Build. Break. Learn. Ship.**
   
